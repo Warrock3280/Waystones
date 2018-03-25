@@ -32,3 +32,5 @@ tooltip.waystones:none=Нет
 tooltip.waystones:returnToWaystone=Вернуться к обелиску
 tooltip.waystones:openWaystoneMenu=Открыть меню перемещений
 tooltip.waystones:levelRequirement=Стоит уровней: %d
+
+stat.waystones:waystonesActivated=Активировано Обелисков
